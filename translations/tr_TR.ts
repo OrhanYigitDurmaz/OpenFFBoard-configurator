@@ -104,7 +104,7 @@
     <message>
         <location filename="../res/effects_stats.ui" line="0"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:696; font-style:italic;&quot;&gt;Used&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:696; font-style:italic;&quot;&gt;百分比&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:696; font-style:italic;&quot;&gt;Kullanılma&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../res/effects_stats.ui" line="0"/>
@@ -174,7 +174,7 @@
     <message>
         <location filename="../res/effects_stats.ui" line="0"/>
         <source>Actions</source>
-        <translation type="unfinished">动作s</translation>
+        <translation>Eylemler</translation>
     </message>
     <message>
         <location filename="../res/effects_stats.ui" line="0"/>
@@ -329,7 +329,7 @@
     <message>
         <location filename="../res/encoder_tune.ui" line="0"/>
         <source>Suggest profile</source>
-        <translation type="unfinished">建议配置文件ds</translation>
+        <translation>Profil Öner</translation>
     </message>
     <message>
         <location filename="../res/encoder_tune.ui" line="0"/>
@@ -366,9 +366,9 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;.AppleSystemUIFont&apos;; font-size:11pt; font-weight:696; text-decoration: underline;&quot;&gt;Legend&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;.AppleSystemUIFont&apos;; font-size:10pt; color:#00ffff;&quot;&gt;cyan&lt;/span&gt;&lt;span style=&quot; font-family:&apos;.AppleSystemUIFont&apos;; font-size:10pt; color:#0000ff;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:&apos;.AppleSystemUIFont&apos;; font-size:10pt;&quot;&gt;: raw value&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;.AppleSystemUIFont&apos;; font-size:10pt; color:#ff40ff;&quot;&gt;magenta&lt;/span&gt;&lt;span style=&quot; font-family:&apos;.AppleSystemUIFont&apos;; font-size:10pt;&quot;&gt; : filtered value&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;.AppleSystemUIFont&apos;; font-size:10pt; color:#00f900;&quot;&gt;green&lt;/span&gt;&lt;span style=&quot; font-family:&apos;.AppleSystemUIFont&apos;; font-size:10pt;&quot;&gt; : scaled raw value&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;.AppleSystemUIFont&apos;; font-size:10pt; color:#00ffff;&quot;&gt;turkuaz&lt;/span&gt;&lt;span style=&quot; font-family:&apos;.AppleSystemUIFont&apos;; font-size:10pt; color:#0000ff;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:&apos;.AppleSystemUIFont&apos;; font-size:10pt;&quot;&gt;: raw value&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;.AppleSystemUIFont&apos;; font-size:10pt; color:#ff40ff;&quot;&gt;mor&lt;/span&gt;&lt;span style=&quot; font-family:&apos;.AppleSystemUIFont&apos;; font-size:10pt;&quot;&gt; : filtered value&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;.AppleSystemUIFont&apos;; font-size:10pt; color:#00f900;&quot;&gt;yeşil&lt;/span&gt;&lt;span style=&quot; font-family:&apos;.AppleSystemUIFont&apos;; font-size:10pt;&quot;&gt; : scaled raw value&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -535,7 +535,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../res/axis_ui.ui" line="0"/>
         <source>Desktop spring (No FFB)</source>
-        <translation>桌面回中力（非游戏内）</translation>
+        <translation type="unfinished">Masaüstü Yayı (FFB Yok)</translation>
     </message>
     <message>
         <location filename="../res/axis_ui.ui" line="0"/>
@@ -546,12 +546,12 @@ p, li { white-space: pre-wrap; }
         <location filename="../res/ffbclass.ui" line="0"/>
         <location filename="../res/axis_ui.ui" line="0"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Centering force when FFB is inactive&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;当游戏未启用时的回中力&lt;/p&gt;&lt;p&gt;游戏启动后就没有&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;FFB Aktif olmadığında ekseni ortalama gücü&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../res/axis_ui.ui" line="0"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Degrees of rotation&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;旋转角度范围&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Derece&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../res/axis_ui.ui" line="0"/>
@@ -561,7 +561,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../res/axis_ui.ui" line="0"/>
         <source>FFB Power</source>
-        <translation type="unfinished">FFB Gücü</translation>
+        <translation>FFB Gücü</translation>
     </message>
     <message>
         <location filename="../res/axis_ui.ui" line="0"/>
@@ -663,7 +663,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../res/effects_graph.ui" line="0"/>
         <source>Friction</source>
-        <translation>阻力</translation>
+        <translation type="unfinished">Sürtünme</translation>
     </message>
     <message>
         <location filename="../res/effects_tuning.ui" line="0"/>
@@ -719,14 +719,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../res/effects_tuning.ui" line="0"/>
         <source>Damper (speed effect)</source>
-        <translation>阻尼器（速度效果）</translation>
+        <translation type="unfinished">Damper (Hız Efekti)</translation>
     </message>
     <message>
         <location filename="../res/effects_tuning.ui" line="0"/>
         <location filename="../res/effects_tuning.ui" line="0"/>
         <location filename="../res/effects_tuning.ui" line="0"/>
         <source>Freq</source>
-        <translation type="unfinished">Frek</translation>
+        <translation type="unfinished">Frekans</translation>
     </message>
     <message>
         <location filename="../res/effects_tuning.ui" line="0"/>
@@ -741,17 +741,17 @@ p, li { white-space: pre-wrap; }
         <location filename="../res/effects_tuning.ui" line="0"/>
         <location filename="../res/effects_tuning.ui" line="0"/>
         <source>Gain</source>
-        <translation>增益</translation>
+        <translation type="unfinished">Gain</translation>
     </message>
     <message>
         <location filename="../res/effects_tuning.ui" line="0"/>
         <source>Inertia (acceleration effect)</source>
-        <translation>惯性（加速效应）</translation>
+        <translation type="unfinished">Eylemsizlik (Hızlanma Efekti)</translation>
     </message>
     <message>
         <location filename="../res/effects_tuning.ui" line="0"/>
         <source>Friction (speed effect)</source>
-        <translation>摩擦（速度效应）</translation>
+        <translation type="unfinished">Sürtünme (Hız Efekti)</translation>
     </message>
     <message>
         <location filename="../res/effects_tuning.ui" line="0"/>
@@ -761,22 +761,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../res/effects_tuning.ui" line="0"/>
         <source>Spring (position effect)</source>
-        <translation>弹簧（位置效果）</translation>
+        <translation type="unfinished">Yay (Pozisyon Efekti)</translation>
     </message>
     <message>
         <location filename="../res/effects_tuning.ui" line="0"/>
         <source>Restore Default</source>
-        <translation>恢复默认</translation>
+        <translation type="unfinished">Varsayılanları Yükle</translation>
     </message>
     <message>
         <location filename="../res/effects_tuning.ui" line="0"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Filter mode for conditional effects. Custom or default (recommended) filter values.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;条件效果的筛选模式。自定义或默认（推荐）筛选数值。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Koşullu Efektler için filtre modu. Özel veya varsayılan(önerilen) filtre değerleri.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../res/effects_tuning.ui" line="0"/>
         <source>Effect filter profile (advanced)</source>
-        <translation>效果过滤配置（高级）</translation>
+        <translation type="unfinished">Efekt Filtre Profili (Gelişmiş)</translation>
     </message>
     <message>
         <location filename="../res/effects_tuning.ui" line="0"/>
@@ -786,7 +786,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../res/effects_tuning.ui" line="0"/>
         <source>Read metrics on axis</source>
-        <translation>在轴上读取指标</translation>
+        <translation type="unfinished">Eksendeki ölçümleri oku</translation>
     </message>
     <message>
         <location filename="../res/errors.ui" line="0"/>
@@ -826,7 +826,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../res/ffbclass.ui" line="0"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Changes the speed at which reports are sent. Slower values skip more packets if the system can&apos;t keep up.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;更改发送报告的速度。如果系统跟不上，设置为更慢的值，会跳过更多数据包。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Raporların iletildiği hızı değiştirir. Yavaş değerler eğer sistem yetişemezse daha fazla paket kaçırır.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../res/ffbclass.ui" line="0"/>
@@ -841,7 +841,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../res/ffbclass.ui" line="0"/>
         <source>Conditional effects settings (Game effects)</source>
-        <translation>额外的效果设置（游戏效果）</translation>
+        <translation type="unfinished">Koşullu Efekt Ayarları (Oyun Efektleri)</translation>
     </message>
     <message>
         <location filename="../res/ffbclass.ui" line="0"/>
@@ -852,17 +852,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../res/ffbclass.ui" line="0"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Intensity of inertia effect&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;惯性效果强度&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Eylemsizlik efektinin yoğunluğu&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../res/ffbclass.ui" line="0"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Intensity of friction effect&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;阻力效果强度&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sürtünme efektinin yoğunluğu&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../res/ffbclass.ui" line="0"/>
         <source>Friction Gain</source>
-        <translation>阻力增益</translation>
+        <translation type="unfinished">Sürtünme Artışı</translation>
     </message>
     <message>
         <location filename="../res/ffbclass.ui" line="0"/>
@@ -872,23 +872,23 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../res/ffbclass.ui" line="0"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Intensity of friction effects&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;阻力效果的强度&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sürtünme efektinin yoğunluğu&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../res/ffbclass.ui" line="0"/>
         <location filename="../res/ffbclass.ui" line="0"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Intensity of spring effects&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;弹簧效果的强度&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Yay efektinin yoğunluğu&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../res/ffbclass.ui" line="0"/>
         <source>Spring Gain</source>
-        <translation>弹簧增益</translation>
+        <translation type="unfinished">Yay Artışı</translation>
     </message>
     <message>
         <location filename="../res/ffbclass.ui" line="0"/>
         <source>Max effect at</source>
-        <translation>最大效果在</translation>
+        <translation type="unfinished">Max effect at</translation>
     </message>
     <message>
         <location filename="../res/ffbclass.ui" line="0"/>
@@ -898,17 +898,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../res/ffbclass.ui" line="0"/>
         <source>Damper Gain</source>
-        <translation>阻尼增益</translation>
+        <translation type="unfinished">Damper Artışı</translation>
     </message>
     <message>
         <location filename="../res/ffbclass.ui" line="0"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Intensity of inertia effects&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;惯性效应的强度&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Eylemsizlik efektinin yoğunluğu&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../res/ffbclass.ui" line="0"/>
         <source>Inertia Gain</source>
-        <translation>惯性增益</translation>
+        <translation type="unfinished">Eylemsizlik Artışı</translation>
     </message>
     <message>
         <location filename="../res/ffbclass.ui" line="0"/>
@@ -918,7 +918,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../res/ffbclass.ui" line="0"/>
         <source>Static effect settings (Game effects)</source>
-        <translation>静态效果设置（游戏效果）</translation>
+        <translation type="unfinished">Statik Efekt Ayarları (Oyun Efektleri)</translation>
     </message>
     <message>
         <location filename="../res/ffbclass.ui" line="0"/>
@@ -984,7 +984,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../res/midi.ui" line="0"/>
         <source>Amplitude</source>
-        <translation>振幅</translation>
+        <translation type="unfinished">Genlik</translation>
     </message>
     <message>
         <location filename="../res/vesc.ui" line="0"/>
@@ -999,15 +999,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../res/midi.ui" line="0"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This only works with the TMC4671. &lt;/p&gt;&lt;p&gt;Set it up first and make sure it initialized.&lt;/p&gt;&lt;p&gt;When a note is played on the first channel it will strongly hold the motor&lt;/p&gt;&lt;p&gt;and modulate the electrical angle in a sine wave.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;
-&lt;head&gt;&lt;/head&gt;
-&lt;body&gt;
-&lt;p&gt;这仅适用于 TMC4671。&lt;/p&gt;
-&lt;p&gt;首先设置它并确保它已初始化。&lt;/p&gt;
-&lt;p&gt;当第一个通道上播放音符时，它将强烈保持电机&lt;/p&gt;
-&lt;p&gt;并以正弦波调制电气角度。&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This only works with the TMC4671. &lt;/p&gt;&lt;p&gt;Set it up first and make sure it initialized.&lt;/p&gt;&lt;p&gt;When a note is played on the first channel it will strongly hold the motor&lt;/p&gt;&lt;p&gt;and modulate the electrical angle in a sine wave.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../res/odrive.ui" line="0"/>
@@ -2170,7 +2162,7 @@ Please make sure both firmware and GUI are up to date if you encounter errors.</
     <message>
         <location filename="../main.py" line="825"/>
         <source>disconnected</source>
-        <translation type="unfinished">Bağlantı Kesildi</translation>
+        <translation>Bağlantı Kesildi</translation>
     </message>
 </context>
 </TS>
